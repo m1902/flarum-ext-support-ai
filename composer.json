@@ -17,6 +17,9 @@
             "name": "Daniël Klabbers",
             "email": "daniel@klabbers.email",
             "homepage": "https://luceos.com"
+        },
+        {
+            "name": "Maciej Pankiewicz"
         }
     ],
     "require": {
@@ -40,7 +43,7 @@
     },
     "extra": {
         "flarum-extension": {
-            "title": "Support AI",
+            "title": "JeepyTA - AI assistant",
             "category": "feature",
             "icon": {
                 "image": "resources/assets/logo.png",
